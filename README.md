@@ -1,4 +1,4 @@
-# Testing with Cypress
+# Component testing with Cypress
 
 In the project directory, you can run:
 
